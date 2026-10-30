@@ -1,0 +1,11 @@
+{
+  "url": "https://main.d3u70dksq1w00b.amplifyapp.com",
+  "checkedAt": "2026-10-30T11:48:05.368Z",
+  "checks": [
+    "Public home, required sections, source link and all internal navigation targets",
+    "Creative feature: clue, incorrect patch, retry, all three successful transformations, personal reveals and reset",
+    "320/390/768/1440px layouts, mobile menu, persistent deep links and keyboard operation",
+    "Core portfolio remains readable with JavaScript disabled"
+  ],
+  "runtimeErrors": []
+}

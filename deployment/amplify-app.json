@@ -1,0 +1,11 @@
+{
+  "name": "hamza-pipeline-rescue",
+  "description": "Muhammad Hamza Siddiqui portfolio with the interactive Pipeline Rescue feature",
+  "platform": "WEB",
+  "enableBasicAuth": false,
+  "enableBranchAutoBuild": false,
+  "tags": {
+    "Project": "hamza-portfolio",
+    "Purpose": "student-builder-challenge"
+  }
+}
