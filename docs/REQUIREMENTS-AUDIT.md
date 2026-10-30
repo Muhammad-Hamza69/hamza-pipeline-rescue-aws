@@ -4,7 +4,7 @@ Reviewed 30 October 2026 against the [official challenge](https://builder.aws.co
 
 | Requirement | Original project | Work performed / remaining evidence |
 | --- | --- | --- |
-| Public AWS Amplify Hosting URL | Vercel history; no AWS configuration | **Deployed and verified:** https://main.d3u70dksq1w00b.amplifyapp.com — job 2 succeeded; anonymous desktop/mobile browser checks passed. |
+| Public AWS Amplify Hosting URL | Vercel history; no AWS configuration | **Deployed and verified:** https://main.d3u70dksq1w00b.amplifyapp.com — job 3 succeeded; anonymous desktop/mobile browser checks passed. |
 | About Me | Present | Preserved biography and experience. |
 | Skills / Tech Superpowers | Present, absent from primary navigation | Added Skills navigation and `#skills`. |
 | Projects / Achievements | Present | Preserved projects, architecture walkthroughs, certifications and project links. |

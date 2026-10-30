@@ -1,9 +1,9 @@
 ﻿{
-    "capturedAt":  "2026-10-30T11:48:06.2088017Z",
+    "capturedAt":  "2026-10-30T11:58:23.0433023Z",
     "source":  "Actual AWS CLI responses, sanitized; not an AWS Console screenshot",
     "region":  "us-east-1",
     "url":  "https://main.d3u70dksq1w00b.amplifyapp.com",
-    "artifactSha256":  "c6ad8f19501f238617e599e92286994b10c25a71643378a007d57ef2f31f78b6",
+    "artifactSha256":  "c1b7b49863b407b5eef0b5867b6344cfc3cf43ac8c84eed51b056d40ee149883",
     "app":  {
                 "appId":  "d3u70dksq1w00b",
                 "name":  "hamza-pipeline-rescue",
@@ -18,9 +18,9 @@
                    "enableAutoBuild":  false
                },
     "job":  {
-                "jobId":  "2",
+                "jobId":  "3",
                 "status":  "SUCCEED",
-                "startTime":  "2026-10-30T16:47:18.352000+05:00",
-                "endTime":  "2026-10-30T16:47:26.310000+05:00"
+                "startTime":  "2026-10-30T16:57:38.245000+05:00",
+                "endTime":  "2026-10-30T16:57:46.201000+05:00"
             }
 }

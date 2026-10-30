@@ -4,7 +4,7 @@ Region: `us-east-1`. Mode: manual static hosting (`WEB`). App: `hamza-pipeline-r
 
 Live URL: **https://main.d3u70dksq1w00b.amplifyapp.com**
 
-Verified publicly without authentication on 30 October 2026. App ID `d3u70dksq1w00b`, production branch `main`, deployment job `2`, AWS status `SUCCEED`. App and branch basic authentication are both disabled.
+Verified publicly without authentication on 30 October 2026. App ID `d3u70dksq1w00b`, production branch `main`, deployment job `3`, AWS status `SUCCEED`. App and branch basic authentication are both disabled.
 
 The deployed page passed the full desktop/mobile, keyboard, navigation and creative-feature browser checks, including CSS/JavaScript asset loading and zero runtime errors. Results: [browser verification](browser-verification.json). Actual sanitized AWS responses: [deployment evidence](aws-deployment.json).
 
@@ -50,3 +50,5 @@ Public source repository: **https://github.com/Muhammad-Hamza69/hamza-pipeline-r
 ## Deployment issue resolved
 
 The first job completed on AWS but nested assets returned 404 because the Windows ZIP implementation used incompatible entry paths. The deployment script now creates each entry with `/` separators. Job 2's archive has 48 files, no backslash entry paths and SHA-256 `c6ad8f19501f238617e599e92286994b10c25a71643378a007d57ef2f31f78b6`. The same page and assets then passed the public browser suite. Future deployments must use the corrected packaging script.
+
+Job 3 updates the footer to the new public GitHub source repository. Its archive SHA-256 is `c1b7b49863b407b5eef0b5867b6344cfc3cf43ac8c84eed51b056d40ee149883`. Public repository access was checked without authentication; the previous repository remains private.
